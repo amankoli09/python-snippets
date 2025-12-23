@@ -2,6 +2,7 @@ a=[1,2,3,4,5,6,7,8]
 b=a
 c=b
 b.append(9)
+c.append(12)
 print(a)
 print(b)
 print(c)
